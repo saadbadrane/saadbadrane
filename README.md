@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, moi c'est Saad Badrane 👋
 
-<!--
-**saadbadrane/saadbadrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en ingénierie à **l'IMT Saint-Étienne (Bac+4)**, passionné par :
+- 🤖 Intelligence Artificielle & Machine Learning
+- 📊 Data Science & Traitement du Langage Naturel (NLP)
+- 👁️ Vision par ordinateur & Traitement d’images
+- 💻 Développement logiciel & Développement Web Full Stack
 
-Here are some ideas to get you started:
+🔎 Actuellement à la recherche d'une **alternance d'un an** à partir de **septembre 2025**  
+*(rythme : 3 semaines en entreprise / 3 semaines à l’école)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **Projets phares**
+- `MentorIA-Mimestis` : Assistant intelligent basé sur une architecture RAG (LangChain & GPT).
+- `Fraud-Detection-System` : Détection de fraudes bancaires via Machine Learning (Random Forest, XGBoost).
+- `Slice-Defender` : Jeu interactif 3D en C++/Qt/OpenGL avec intégration de vision par ordinateur.
+- `AI-Codebase-Assistant` : Outil IA d’exploration de bases de code grâce à LangChain et GPT.
+- ... et bien d'autres à découvrir dans mes dépôts GitHub !
+
+---
+
+### 📫 **Contact**
+- **Email** : badranesaad00@gmail.com
+- **LinkedIn** : [Profil LinkedIn](https://www.linkedin.com/in/saad-badrane-333733191/)
+- **Portfolio** : *(En cours de réalisation)*
+
