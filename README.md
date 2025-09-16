@@ -1,13 +1,12 @@
 # Bonjour, moi c'est Saad Badrane 👋
 
-🎓 Étudiant en ingénierie à **l'IMT Saint-Étienne (Bac+4)**, passionné par :
+🎓 Étudiant en ingénierie à **l'IMT Saint-Étienne (Bac+5)**, passionné par :
 - 🤖 Intelligence Artificielle & Machine Learning
 - 📊 Data Science & Traitement du Langage Naturel (NLP)
 - 👁️ Vision par ordinateur & Traitement d’images
 - 💻 Développement logiciel & Développement Web Full Stack
 
-🔎 Actuellement à la recherche d'une **alternance d'un an** à partir de **septembre 2025**  
-*(rythme : 3 semaines en entreprise / 3 semaines à l’école)*
+--
 
 ---
 
